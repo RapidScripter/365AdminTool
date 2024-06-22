@@ -26,11 +26,15 @@ This PowerShell module provides cmdlets for managing and retrieving information 
 
 2. Open PowerShell with Administrator privileges.
 
-3. Import the module:
+3. Either load the script directly using:
+   ```powershell
+   <path_to_script>\365AdminTool.ps1
+   
+4. OR rename the script to <b>365AdminTool.psm1</b> and save it as a module within your PowerShell modules in a new folder also called <b>365AdminTool</b>. Then the functions within the script will work as cmdlets. After renaming and saving the script/module:
    ```powershell
    Import-Module <path_to_module>\365AdminTool.psm1
 
-4. View the list of Commands: <b>Get-365Command</b>
+5. View the list of Commands: `<b>Get-365Command</b>`
 
 ## Command List
 
