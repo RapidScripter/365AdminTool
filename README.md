@@ -28,7 +28,7 @@ This PowerShell module provides cmdlets for managing and retrieving information 
 
 3. Import the module:
    ```powershell
-   Import-Module <path_to_module>\Microsoft365Admin.psm1
+   Import-Module <path_to_module>\365AdminTool.psm1
 
 4. View the list of Commands: <b>Get-365Command</b>
 
