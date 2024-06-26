@@ -22,7 +22,7 @@ This PowerShell module provides cmdlets for managing and retrieving information 
 
 1. Clone the repository or download the module files.
    ```bash
-   git clone https://github.com/RapidScripter/365AdminTool
+   git clone https://github.com/RapidScripter/365AdminTool.git
 
 2. Open PowerShell with Administrator privileges.
 
